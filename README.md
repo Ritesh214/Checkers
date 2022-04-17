@@ -1,19 +1,3 @@
-
-
-
-STUDENT NAME: RITESH SHAH 
-INSTRUCTOR’S NAME: PROF. BROOKE M.S.
-
-SOUTHERN NEW HAMPSHIRE UNIVERSITY 
-
-
-DATE OF SUBMISSION: 25/03/2022 
-MODULE FOUR
-
- 
-
- 
-
 Category Two: Algorithms and Data Structures
 Checkers game.
 The following enhancements have been completed:
