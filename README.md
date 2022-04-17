@@ -29,3 +29,6 @@
 • Good coding practices and standards</i><br></p>
 <p>The artefact has now reduced the time it takes to select a next move by using the <b>memoization technique</b> to store winning moves. When calculating a next move, we have substituted the <b>breadth first search algorithm </b>that was in use for an <b>iterative depth first search algorithm</b> that has reduces the <b>space and time complexity</b> of the algorithm thus making it <b>more efficient</b>.
 The process taught me how to practice good <b>coding standards</b> and well commented code. I also learnt the importance of selecting a <b>good algorithm</b> to implement for any given task since they perform differently under different circumstances.</p>
+<h2>Review comments</h2>
+<p>Hi Ritesh,<br>
+This is great progress and I only have one suggestion aside from my reminder of making sure you clearly state what skills you are demonstrating. Make it super easy for the potential employer to see your logic and algorithm skills with the chess game code and narrative. You are on track.</p>
