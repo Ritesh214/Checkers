@@ -4,8 +4,8 @@
 • Implementation of a depth first search algorithm (min-max) when identifying the next move to make. This will help reduce the time it takes to get a suitable move from the current time which uses a breadth first search algorithm.</i><br></p>
 <p>The skills illustrated here are in the use of algorithms and data structures to <b>solve, improve performance</b> and <b>reduce the number of steps</b> required to reach a desired solution. When using algorithms we are trying to <b>optimize</b> a solution. The solution could be found in many different ways but we find the most efficient way such that we can save on <b>time of execution</b> and the <b>resources</b> that would be required to complete the task. <b>Data structures</b> are ways of storing data so that it can be <b>manipulated</b> in a desired manner e.g. you can use a queue to implement a <b>first in first out</b> operation on a set of variables or a stack for a last in first out operation. This structures are very important when dealing with <b>arrays of data</b>.</p>
 
-<b>The checkers game</b>
-	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture1.png"><br>
+<b>The checkers game</b><br>
+	<img src="https://github.com/Ritesh214/Checkers/blob/main/pics/Picture1.png"><br>
 <b><i>Add three new lists</i></b><br>
 	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture2.png"><br>
 <b><i>Append moves made by each player to their respective lists</i></b><br>
