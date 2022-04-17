@@ -5,23 +5,23 @@
 <p>The skills illustrated here are in the use of algorithms and data structures to <b>solve, improve performance</b> and <b>reduce the number of steps</b> required to reach a desired solution. When using algorithms we are trying to <b>optimize</b> a solution. The solution could be found in many different ways but we find the most efficient way such that we can save on <b>time of execution</b> and the <b>resources</b> that would be required to complete the task. <b>Data structures</b> are ways of storing data so that it can be <b>manipulated</b> in a desired manner e.g. you can use a queue to implement a <b>first in first out</b> operation on a set of variables or a stack for a last in first out operation. This structures are very important when dealing with <b>arrays of data</b>.</p>
 
 <b>The checkers game</b>
-	<img src="https://github.com/Ritesh214/Jukebox/blob/main/pics/Picture1.png"><br>
+	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture1.png"><br>
 <b><i>Add three new lists</i></b><br>
-	<img src="https://github.com/Ritesh214/Jukebox/blob/main/pics/Picture2.png"><br>
+	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture2.png"><br>
 <b><i>Append moves made by each player to their respective lists</i></b><br>
-	<img src="https://github.com/Ritesh214/Jukebox/blob/main/pics/Picture3.png"><br>
+	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture3.png"><br>
 <b><i>Append the winning series of moves to the winning series list</i></b><br>
-	<img src="https://github.com/Ritesh214/Jukebox/blob/main/pics/Picture4.png"><br>
+	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture4.png"><br>
 <b><i>When making a move check if the move exists in a winning list containing the series of moves that lead to a win and select the next move from there</i></b><br>
-	<img src="https://github.com/Ritesh214/Jukebox/blob/main/pics/Picture5.png"><br>
+	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture5.png"><br>
 <b><i>Implement a depth first search to reduce the implementation time for the move selection process. Current implementation is breadth first search wich has high space and time complexity</i></b><br>
-	<img src="https://github.com/Ritesh214/Jukebox/blob/main/pics/Picture6.png"><br>
+	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture6.png"><br>
 <b><i>Iterative depth first search (IDFS) implementation</i></b><br>
-	<img src="https://github.com/Ritesh214/Jukebox/blob/main/pics/Picture7.png"><br>
+	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture7.png"><br>
 <b><i>Running the game</i></b><br>
-	<img src="https://github.com/Ritesh214/Jukebox/blob/main/pics/Picture8.png"><br>
+	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture8.png"><br>
 <b><i>Playing the game</i></b><br>
-	<img src="https://github.com/Ritesh214/Jukebox/blob/main/pics/Picture9.png"><br>
+	<img src="https://github.com/Ritesh214/Checkers/tree/main/pics/Picture9.png"><br>
 
 <p>As shown above, the <b>planned enhancements</b> have been done. This artefact has <b>demonstrated various skills</b> that are relevant to my <b>ePortfolio</b>. These include:</p>
 <p><i>• Working with data structures<br>
